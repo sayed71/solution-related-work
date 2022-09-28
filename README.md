@@ -2,7 +2,7 @@
 
 # Solution Related Work
 >> Uses of Technology: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, Microsoft SQL Server, MySQL, Microsoft Access Database 2003, SAP Crystal Report, JavaScript, jQuery, jQuery UI, API, GitHub, HTML, CSS, Bootstrap and PSD to HTML Conversion etc.
-<br>
+
 
 ## Common Solution
 - Best Practices for Single Page Web Application Development.
