@@ -7,11 +7,12 @@ ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, Microsoft SQL
 
 ## Common Solution
 - Best Practices for Single Page Web Application Development.
-- Regular Expression Related Work (Make Complex Pattern for Validation, Bangladeshi Mobile Number Validation, Find Data from File or Web URL etc.)
+- Regular Expression Related Work.
 
 ## JavaScript and jQuery
 - Working with Some Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
 - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
+- Regular Expression Related Work (Make Complex Pattern for Validation, Bangladeshi Mobile Number Validation, Find Data from File or Web URL etc.)
 - Update and Modify Third Party Libraries.
 
 ## ASP.Net WebForms
